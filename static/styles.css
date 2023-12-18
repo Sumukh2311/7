@@ -88,6 +88,12 @@ color: white;
   animation: thala 0.25s infinite;
 
 }
+.thala-img{
+  img{
+    height: 50%;
+    width: 50%;
+  }
+}
 @keyframes thala {
   0%{
     color: blue;
